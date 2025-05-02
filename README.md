@@ -69,3 +69,6 @@ Flask UI Setup:
     Log file: /run/openvpn/server.status
     Use tcpdump or netstat to view port 1194
     sudo journalctl -u openvpn@server #---- for logs
+#############################################
+Note: A User should change the folder config files to their own paths when running this project locally on their system
+#############################################
