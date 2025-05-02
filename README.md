@@ -5,7 +5,7 @@ This project provides a secure VPN client-server solution built using **OpenVPN*
 
 ---
 
-## 🛠️ Dependencies & Prerequisites
+## 🛠️ Dependencies & Prerequisites.
 
 Ensure you're using **Ubuntu 22.04+** or equivalent.
 
